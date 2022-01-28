@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+ 
+Visit the template here: https://rubytrainingblog.herokuapp.com/
