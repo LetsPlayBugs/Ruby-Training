@@ -1,4 +1,6 @@
+# frozen_string_literal: true
+
 class Comment < ApplicationRecord
-include Visible
+  include Visible
   belongs_to :article
 end
