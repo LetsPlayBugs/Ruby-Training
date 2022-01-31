@@ -7,3 +7,7 @@ Initial load takes a while as I am using heroku free tier. Let the VM spin up, i
 bundle install
 rails s
 ```
+
+Credentials for editing an article (Requires basic auth).
+user: dhh
+password: secret
