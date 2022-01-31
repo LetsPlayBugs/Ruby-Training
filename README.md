@@ -9,5 +9,7 @@ rails s
 ```
 
 Credentials for editing an article (Requires basic auth).
+
 user: dhh
+
 password: secret
